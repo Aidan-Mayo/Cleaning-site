@@ -69,3 +69,15 @@
   </div>
 </div>
 <!--Gallery end-->
+<!--Price list-->
+<table class="table table-bordered">
+    <tr>
+      <td>Hourly rate</td>
+      <td>000000</td>
+    </tr>
+    <tr>
+      <td>000000</td>
+      <td>000000</td>
+    </tr>
+</table>
+<!--Price list end-->
